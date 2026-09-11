@@ -1,0 +1,7 @@
+{
+  "file_key_hex": "147207e69cf05f8a78ddb943a9b5aa5b4fac977e2ce04412aa047833a047efdf",
+  "hmac_key_hex": "351ec75e61da1ca880875d072dc8d43c50256f7e8200add90c348bab931bbc1f",
+  "file_key_b64": "FHIH5pzwX4p43blDqbWqW0+sl34s4EQSqgR4M6BH798=",
+  "hmac_key_b64": "NR7HXmHaHKiAh10HLcjUPFAlb36CAK3ZDDSLq5MbvB8=",
+  "_note": "Sprint 1: hardcoded keys. Replace with Android Keystore in Sprint 2."
+}

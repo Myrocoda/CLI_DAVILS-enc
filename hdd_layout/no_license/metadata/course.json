@@ -1,0 +1,18 @@
+{
+  "title": "Introduction to Secure Video Delivery",
+  "version": "1.0",
+  "lessons": [
+    {
+      "id": "lesson1",
+      "title": "Lesson 1 - Foundations",
+      "filename": "lesson1.enc",
+      "durationSeconds": 1800
+    },
+    {
+      "id": "lesson2",
+      "title": "Lesson 2 - Advanced Concepts",
+      "filename": "lesson2.enc",
+      "durationSeconds": 2400
+    }
+  ]
+}

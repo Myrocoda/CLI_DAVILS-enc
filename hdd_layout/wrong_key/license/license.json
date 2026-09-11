@@ -1,0 +1,9 @@
+{
+  "_variant": "WRONG KEY -- intentionally incorrect for HMAC-fail testing",
+  "customerId": "TEST-001",
+  "customerName": "Test User",
+  "fileKey": "sdraAUKrcobJUF0O77suewkSg4txtVP+e2RZW7wLM9s=",
+  "hmacKey": "jL70esB0clZlr6Xh/Ea+5ccLmqBudYZzPrEiac1BtbU=",
+  "deviceFingerprint": "ANY",
+  "_note": "Sprint 1: deviceFingerprint=ANY means no device binding. Real binding is Sprint 2."
+}
